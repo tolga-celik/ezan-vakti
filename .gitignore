@@ -1,0 +1,20 @@
+# Build output
+build/
+dist/
+AppDir/
+build_venv/
+packaging/
+*.AppImage
+__pycache__/
+*.pyc
+
+# Scratch / preview files
+assets/preview_*.png
+assets/test_*.png
+
+# Raw source recordings that the app does not use (it plays the .mp3 files)
+assets/aksam-ezani
+assets/ikindi-ezani
+assets/ogle-ezani
+assets/yatsi-ezani
+assets/sabah-ezani.m4a

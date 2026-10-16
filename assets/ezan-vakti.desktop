@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Ezan Vakti
+GenericName=Namaz Vakitleri
+Comment=Linux KDE Masaüstü Ezan Vakti ve Bildirim Uygulaması
+Exec=ezan-vakti
+Icon=ezan-vakti
+Terminal=false
+Categories=Utility;Clock;KDE;Qt;
+Keywords=ezan;vakit;namaz;prayer;athan;diyanet;islam;
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
+X-KDE-autostart-after=panel
