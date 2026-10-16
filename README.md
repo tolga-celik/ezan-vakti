@@ -2,6 +2,14 @@
 
 Sistem tepsisinde (saatin yanında) çalışan, tek dosyalık **AppImage** olarak dağıtılan bir ezan vakti ve hava durumu uygulaması. KDE Plasma'nın Hava Durumu bileşenine benzer bir açılır pencere sunar. Tüm Linux dağıtımlarında çalışır.
 
+##  Ekran görüntüleri
+
+<p align="center">
+  <img src="docs/screenshots/hava-durumu-sekmesi.png" alt="7 günlük hava durumu sekmesi" width="32%">
+  <img src="docs/screenshots/ezan-vakti-sekmesi.png" alt="Ezan vakti sekmesi" width="32%">
+  <img src="docs/screenshots/ayrintilar-sekmesi.png" alt="Ayrıntılar sekmesi" width="32%">
+</p>
+
 ##  Özellikler
 
 - **Tepsi simgesi:** Sonraki vakte kalan süre (dakika, bir saatten fazlaysa saat) cami simgesinin içinde düz metin olarak görünür. Simge Anadolu / klasik Osmanlı üslubundadır; vakit yaklaşınca amber renge döner.
